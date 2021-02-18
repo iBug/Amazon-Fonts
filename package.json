@@ -1,0 +1,13 @@
+{
+  "name": "amazon-fonts",
+  "version": "1.0.0",
+  "description": "Amazon Fonts",
+  "style": "fonts/stylesheet.css",
+  "keywords": [
+    "amazon",
+    "fonts"
+  ],
+  "author": "iBug",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
