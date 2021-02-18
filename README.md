@@ -22,5 +22,5 @@ For public websites, you can load CSS from jsDelivr:
 
 ## License
 
-- **Proprietary** for the font files included in this project. See [Amazon Ember Licensing Guidelines](Amazon Ember Licensing Guidelines.pdf) for more information.
+- **Proprietary** for the font files included in this project. See [Amazon Ember Licensing Guidelines](Amazon%20Ember%20Licensing%20Guidelines.pdf) for more information.
 - [**MIT License**](https://opensource.org/licenses/MIT) for everything else. Copyright &copy; 2021 iBug.
