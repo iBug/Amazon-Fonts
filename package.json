@@ -1,7 +1,12 @@
 {
   "name": "amazon-fonts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazon Fonts",
+  "homepage": "https://github.com/iBug/Amazon-Fonts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iBug/Amazon-Fonts.git"
+  },
   "style": "fonts/stylesheet.css",
   "keywords": [
     "amazon",

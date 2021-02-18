@@ -1,6 +1,8 @@
 # Amazon Fonts
 
-Fonts from [Amazon Design](https://developer.amazon.com/alexa/branding/echo-guidelines/identity-guidelines/typography).
+[![npm](https://img.shields.io/npm/v/amazon-fonts)](https://www.npmjs.com/package/amazon-fonts)
+
+Fonts from [Amazon Design](https://developer.amazon.com/alexa/branding/echo-guidelines/identity-guidelines/typography). The original files from Amazon can be downloaded [here](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/branding/Amazon_Typefaces_Complete_Font_Set_Mar2020.zip).
 
 ## Usage
 
@@ -10,10 +12,12 @@ Install from NPM:
 npm install amazon-fonts
 ```
 
-Or load CSS from jsDelivr:
+The `fonts/stylesheet.css` file contains stylesheets for quick adoption to websites.
+
+For public websites, you can load CSS from jsDelivr:
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/amazon-fonts@1/fonts/stylesheet.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/amazon-fonts@1.0.1/fonts/stylesheet.css" />
 ```
 
 ## License
